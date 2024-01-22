@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 Walmart Sales Data Analysis
 About
-This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle Walmart.
+This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from the Kaggle.
 
 "In this data are provided with historical sales data for 45 Walmart stores located in different regions. Each store contains many departments, and in this  sales for each department in each store. 
 
